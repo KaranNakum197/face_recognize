@@ -7,7 +7,7 @@ import numpy as np
 import logging
 import cv2
 
-#  Path of cropped faces
+#  Path of cropped faces for extraction
 path_images_from_camera = "data/data_faces_from_camera/"
 
 #  Use frontal face detector of Dlib
