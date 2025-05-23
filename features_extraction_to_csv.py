@@ -10,7 +10,7 @@ import cv2
 #  Path of cropped faces for extraction
 path_images_from_camera = "data/data_faces_from_camera/"
 
-#  Use frontal face detector of Dlib
+#  Use frontal face detector of Dlib todet face
 detector = dlib.get_frontal_face_detector()
 
 #  Get face landmarks
