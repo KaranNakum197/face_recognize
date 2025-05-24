@@ -21,3 +21,13 @@ This system captures faces using a webcam, recognizes known individuals using pr
 - 📊 Attendance filtering by date, name, or status (via Flask UI)
 
 ---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **OpenCV**
+- **face_recognition**
+- **Flask** (Web Interface)
+- **Pandas** (CSV handling)
+- **SQLite / MySQL** (optional DB backend)
+- **HTML/CSS/Jinja2** (Flask templating)
